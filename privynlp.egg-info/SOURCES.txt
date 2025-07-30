@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+privynlp/__init__.py
+privynlp/extractor.py
+privynlp.egg-info/PKG-INFO
+privynlp.egg-info/SOURCES.txt
+privynlp.egg-info/dependency_links.txt
+privynlp.egg-info/requires.txt
+privynlp.egg-info/top_level.txt
+tests/test_extractor.py
